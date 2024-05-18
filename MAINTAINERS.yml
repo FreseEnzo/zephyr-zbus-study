@@ -848,6 +848,7 @@ Documentation:
     - nashif
   files:
     - CODE_OF_CONDUCT.md
+    - FRESE_STUDY.md
     - CONTRIBUTING.rst
     - doc/glossary.rst
     - doc/contribute/
